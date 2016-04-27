@@ -1,4 +1,4 @@
-AngularJS Application Seed
+Angular2 Application
 =========
 
 Prerequisites
@@ -7,10 +7,6 @@ Prerequisites
 - [Node.js](https://nodejs.org/en/) `>= 0.8.0`
 - [Grunt CLI](http://gruntjs.com/getting-started) running `sudo npm install -g grunt-cli`
 
-Configuration
----------
-
-- run `npm set registry http://192.168.1.174:8081/nexus/repository/npm/` to use our internal npm registry (see [npm documentation](https://docs.npmjs.com/misc/registry))
 
 Development Build
 ---------
